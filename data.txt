@@ -1,1 +1,10 @@
-relsomsa sdf asdfkj 
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/metinkaya1511/FinraDeck.git 
+git push -u origin master
+
+
+git status
+git log
+git remote -v
